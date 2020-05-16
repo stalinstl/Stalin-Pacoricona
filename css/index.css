@@ -1,0 +1,127 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+}
+
+.title:visited {
+    color:  rgba(0, 0, 0, 0.836);
+}
+
+.title:link {
+    color: rgba(0, 0, 0, 0.836);
+}
+.title:hover {
+    color: rgb(3, 1, 1);
+}
+
+h2 {
+    font-size: 17px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+.sinopsis {
+    font-size: 17px;
+}
+
+.descarga:hover {
+    color: rgba(0, 0, 0, 0.39);
+}
+.actitud {
+    font-size: 29px;
+}
+.post-content{
+    line-height: inherit;
+    line-height: 1.4;
+    font-size: 1rem;
+    text-align: justify;
+}
+.post-img {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 30px;
+    margin-top: 106px;
+}
+
+.post-title {
+    font-size: 15px;
+}
+.hoverable {
+    transition: 2s;
+}
+
+.post-link:hover {
+    color: rgb(213, 229, 235);
+    transition: 1s;
+}
+.post-link {
+    color: white;
+}
+
+/*sobre mi*/
+
+.sobre-mi {
+    font-family: 'Playfair Display', serif;
+    font-size: 38px;
+}
+.post-p {
+    line-height: inherit;
+    line-height: 1.9;
+    text-align: justify;
+}
+.facebook:link {
+    color: white;
+}
+.facebook:visited {
+    color: white;
+}
+.facebook:hover {
+    color:#2477F3;
+}
+
+.twitter:link {
+    color: white;
+}
+.twitter:visited {
+    color: white;
+}
+.twitter:hover {
+    color: #2EA2F2;
+}
+
+
+.link-facebook:link {
+    color: rgb(131, 119, 119);
+}
+.link-facebook:visited {
+    color: rgb(131, 119, 119);
+}
+.link-facebook:hover {
+    color:#2477F3;
+}
+
+.link-twitter:link {
+    color: rgb(131, 119, 119);
+}
+.link-twitter:visited {
+    color: rgb(131, 119, 119);
+}
+.link-twitter:hover {
+    color: #2EA2F2;
+}
+
+.post-stal {
+    font-size: 18px;
+}
+
+.post-twitter:link {
+    color: rgb(5, 4, 4);
+}
+.post-twitter:visited {
+    color: rgb(5, 4, 4);
+}
+.post-twitter:hover {
+    color: #2EA2F2;
+}
